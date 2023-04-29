@@ -2,5 +2,5 @@
 
 This repository stores my submissions towards certifications from freeCodeCamp.
 
-## In progress:
+## Completed:
 [Relational Database Certification](https://www.freecodecamp.org/learn/relational-database)
